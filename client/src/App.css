@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+a{
+  color: black !important;
+}
+
+.brand-logo, h2{
+  font-family: 'Metal Mania', cursive;
+  letter-spacing: 3px;
+}
+
+.mycard{
+  margin-top: 40px;
+}
+
+.auth-card{
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  margin: 10px auto;
+}
+
+.gallery{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item{
+  width: 30%;
+}
+
+.home-card{
+  max-width: 700px;
+  height: max-content;
+  margin: 30px auto;
+}
+
+
+#toast-container{
+  top: 40px !important;
+  right: 30px !important;
+  left: auto !important;
+}
+
+.mycard input[type="mobile"]{
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.info{
+  max-width: 700px;
+  height: max-content;
+  margin: 30px auto;
+}
